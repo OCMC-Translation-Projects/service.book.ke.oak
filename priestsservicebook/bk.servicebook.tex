@@ -1,6 +1,6 @@
 \documentclass[extrafontsizes,14pt]{memoir}
 % Base fonts available for memoir are:
-% 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt, 25pt, 
+% 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt, 25pt,
 % 30pt, 36pt, 48pt and 60pt
 % When using fonts larger than 12, you also
 % have to
@@ -41,32 +41,35 @@
 
 \mainmatter
 
-\ltColumnsOn
+%\ltColumnsOn
+\begin{multicols}{2}
 
 \input{templates/tmp.baptism}
- 
-%\input{templates/tmp.wedding}
 
-%\input{templates/tmp.holyunction}
+\input{templates/tmp.wedding}
 
-%\input{templates/tmp.trisagion}
+\input{templates/tmp.holyunction}
 
-%\input{templates/tmp.vespersforsunday}
+\input{templates/tmp.trisagion}
 
-%\input{templates/tmp.matinsforsunday}
+\input{templates/tmp.vespersforsunday}
 
-%\input{templates/tmp.matinsweekday}
+\input{templates/tmp.matinsforsunday}
+
+\input{templates/tmp.matinsweekday}
+
+\input{templates/tmp.proskomide}
 
 \input{templates/tmp.liturgystjohn}
 
-%\input{templates/tmp.churchdedicationatvespers}
+\input{templates/tmp.churchdedicationatvespers}
 
-%\input{templates/tmp.childbirth}
+\input{templates/tmp.childbirth}
 
-%\input{templates/tmp.blessingbuildingorbusiness}
+\input{templates/tmp.blessingbuildingorbusiness}
 
 \vfill
 
 \pagebreak
-
+\end{multicols}
 \end{document}

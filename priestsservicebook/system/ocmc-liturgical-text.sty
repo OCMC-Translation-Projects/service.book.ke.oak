@@ -2,7 +2,7 @@
 % Author: Michael Colburn
 % specifies packages and defines new commands for purposes
 % of typesetting liturgical books for the Eastern Orthodox Christian Church
-% 
+%
 % the prefix 'lt' means 'liturgical text'.  This prefix was added to commands to avoid collisions with commands named by other packages.
 %
 % This package relies on package i18n-topic-key.
@@ -86,6 +86,7 @@
 \usepackage{color}% used by paracol
 \RequirePackage{xstring}% for case statements
 \usepackage{paracol}% parallel columns
+\usepackage{multicol}
 %----------------------------------------------------------------------------------------
 %	HYPERLINKS IN THE DOCUMENTS
 %----------------------------------------------------------------------------------------
@@ -132,9 +133,9 @@ addtohook={%
 
 \setmainfont[%
        Path = \myFontDir/Arimo/%
-       , BoldFont = Arimo-Bold.ttf% 
+       , BoldFont = Arimo-Bold.ttf%
        , ItalicFont = Arimo-Italic.ttf%
-       , BoldItalicFont = Arimo-BoldItalic.ttf% 
+       , BoldItalicFont = Arimo-BoldItalic.ttf%
        , Ligatures = TeX]{Arimo-Regular.ttf}%
 
 \ifbool{supportKorean}{%
@@ -142,7 +143,7 @@ addtohook={%
 \setCJKmainfont{fonts/korean/UnGungseo.ttf}%
 \setCJKsansfont{fonts/korean/UnGungseo.ttf}%
 \setCJKmonofont{fonts/korean/gulim.ttf}%
-}{} 
+}{}
 
 \newcommand{\ltSetColor}[1]{%
 \color{#1}%
@@ -178,7 +179,7 @@ addtohook={%
 }%
 %\ltTypeography{}%
 }
-\newcommand{\ltTypeography}{% 
+\newcommand{\ltTypeography}{%
 \pgfkeysvalueof{\my/current/typeography}%
 }
 \newcommand{\ltTempTypeographyDefault}{%
@@ -217,7 +218,7 @@ addtohook={%
 %============================================
 % RIGHT TO LEFT SUPPORT - MUST BE LAST PACKAGE LOADED
 %============================================
-\usepackage{bidi}% 
+\usepackage{bidi}%
 
 %=========================================================
 % Custom Commands
@@ -242,7 +243,7 @@ addtohook={%
     , right/country/.initial=gr%
     , right/realm/.initial=cog%
     , right/text/.initial=
-    , cols/.initial=1% 
+    , cols/.initial=1%
 }
 \pgfkeys{%
     \my/domains/.cd%
@@ -316,7 +317,7 @@ addtohook={%
         missing \PackageError{ocmc-liturgical-text}{Missing \pgfkeysvalueof{\my/resources/path}/#1_#2_#3/res.#4.tex}%
         {%
         Add the missing file.%
-        }%    
+        }%
     }%
 }
 %================================================
@@ -328,7 +329,7 @@ addtohook={%
 Script=Arabic%
 , Path = \myFontDir/Arabic/%
 , BoldFont = amiri-bold.ttf%
-, ItalicFont = amiri-slanted.ttf% 
+, ItalicFont = amiri-slanted.ttf%
 , BoldItalicFont = amiri-boldslanted.ttf%
    ]{amiri-regular.ttf}%
 }
@@ -339,10 +340,10 @@ Script=Arabic%
 \newfontfamily\hebrewfont[%
     Script=Hebrew%
     , Path = \myFontDir/hebrew/%
-    , BoldFont = ShofarDemi-Bold.ttf% 
-    , ItalicFont = ShofarRegularOblique.ttf% 
+    , BoldFont = ShofarDemi-Bold.ttf%
+    , ItalicFont = ShofarRegularOblique.ttf%
     , BoldItalicFont = ShofarDemi-BoldOblique.ttf%
-       ]{ShofarRegular.ttf}%                
+       ]{ShofarRegular.ttf}%
 }
 \newcommand{\addFont}[1]{%
     \pgfkeyssetvalue{\myLoadedFonts/#1}{true}%
@@ -414,13 +415,13 @@ Script=Arabic%
 				\pgfkeysifdefined{/#1/#2/#3/#4/#5.header}{%
 					\booltrue{hasHeader}%
 					\booltrue{titleHasAllParts}%
-					}{% 
+					}{%
 						% false is already set
 				}%
-			}{% 
+			}{%
 			% false is already set
 		}%
-		}{% 
+		}{%
 		% false is already set
 	}%
 }%
@@ -448,7 +449,7 @@ Script=Arabic%
             \ifbool{hyphenate}{\selectlanguage{english}}{}%
         }%
         {gr}{%
-            \ifbool{hyphenate}{\selectlanguage{greek}}{}%        
+            \ifbool{hyphenate}{\selectlanguage{greek}}{}%
         }%
         {heb}{\hebrewfont\setRTL}%
         {rus}{}%
@@ -499,7 +500,7 @@ Script=Arabic%
     \end{minipage}
     \vfill
     \includegraphics[width=.5\textwidth]{system/images/icxcnika.jpg}
-    
+
     \ltSid{client.settings}{client.title}
     \end{center}
     \end{titlingpage}
@@ -582,10 +583,10 @@ Script=Arabic%
             \begin{paracol}{2}%
             	\begin{leftcolumn}%
                 \ltGetSection{\pgfkeysvalueof{\my/current/left/language}}{\pgfkeysvalueof{\my/current/left/country}}{\pgfkeysvalueof{\my/current/left/realm}}{#1}{#2}%
-                \end{leftcolumn}%          
+                \end{leftcolumn}%
             	\begin{rightcolumn}%
                     \ltGetSection{\pgfkeysvalueof{\my/current/right/language}}{\pgfkeysvalueof{\my/current/right/country}}{\pgfkeysvalueof{\my/current/right/realm}}{#1}{#2}%
-                \end{rightcolumn}%          
+                \end{rightcolumn}%
             \end{paracol}%
         }%
         {3}{% output three columns
@@ -626,10 +627,10 @@ Script=Arabic%
             \begin{paracol}{2}%
             	\begin{leftcolumn}%
                     \ltGetSubSection{\pgfkeysvalueof{\my/current/left/language}}{\pgfkeysvalueof{\my/current/left/country}}{\pgfkeysvalueof{\my/current/left/realm}}{#1}{#2}%
-                \end{leftcolumn}%          
+                \end{leftcolumn}%
             	\begin{rightcolumn}%
                     \ltGetSubSection{\pgfkeysvalueof{\my/current/right/language}}{\pgfkeysvalueof{\my/current/right/country}}{\pgfkeysvalueof{\my/current/right/realm}}{#1}{#2}%
-                \end{rightcolumn}%          
+                \end{rightcolumn}%
             \end{paracol}%
         }%
         {3}{% output three columns
@@ -674,10 +675,10 @@ Script=Arabic%
             \begin{paracol}{2}%
             	\begin{leftcolumn}%
                     \ltGetSubSubSection{\pgfkeysvalueof{\my/current/left/language}}{\pgfkeysvalueof{\my/current/left/country}}{\pgfkeysvalueof{\my/current/left/realm}}{#1}{#2}%
-                \end{leftcolumn}%          
+                \end{leftcolumn}%
             	\begin{rightcolumn}%
                     \ltGetSubSubSection{\pgfkeysvalueof{\my/current/right/language}}{\pgfkeysvalueof{\my/current/right/country}}{\pgfkeysvalueof{\my/current/right/realm}}{#1}{#2}%
-                \end{rightcolumn}%          
+                \end{rightcolumn}%
             \end{paracol}%
         }%
         {3}{% output three columns
@@ -769,12 +770,12 @@ Script=Arabic%
 			\ltTypeography{}%
             \ltGetColVal{left}{#1}{#2}%
             \ltTempTypeographyDefault%
-            \end{leftcolumn}%          
+            \end{leftcolumn}%
         	\begin{rightcolumn}%
 			\ltTypeography{}%
-            \ltGetColVal{right}{#1}{#2}%         
+            \ltGetColVal{right}{#1}{#2}%
             \ltTempTypeographyDefault%
-            \end{rightcolumn}%          
+            \end{rightcolumn}%
         \end{paracol}%
     }%
     {3}{% output three columns
@@ -785,17 +786,17 @@ Script=Arabic%
 			\ltTypeography{}%
             \ltGetColVal{left}{#1}{#2}%
             \ltTempTypeographyDefault%
-            \end{nthcolumn}%          
+            \end{nthcolumn}%
         	\begin{nthcolumn}{1}%
 			\ltTypeography{}%
-            \ltGetColVal{center}{#1}{#2}%          
+            \ltGetColVal{center}{#1}{#2}%
             \ltTempTypeographyDefault%
-            \end{nthcolumn}%          
+            \end{nthcolumn}%
         	\begin{nthcolumn}{2}%
 			\ltTypeography{}%
-            \ltGetColVal{right}{#1}{#2}%         
+            \ltGetColVal{right}{#1}{#2}%
             \ltTempTypeographyDefault%
-            \end{nthcolumn}%          
+            \end{nthcolumn}%
         \end{paracol}%
     }%
 }[]%
@@ -877,7 +878,7 @@ Script=Arabic%
     }%
 }%
 
-% Call this if you do not want dialog to set its 
+% Call this if you do not want dialog to set its
 % own format
 \DeclareDocumentCommand\ltDialogNoFormat{m m g g g g g g}{%
     \IfValueTF{#7}{%
@@ -1032,12 +1033,12 @@ Script=Arabic%
 \makeoddhead{ruled}{\thepage}{\leftmark}{}
 \makeevenfoot{ruled}{}{}{}
 \makeoddfoot{ruled}{}{}{}
-\setbool{subsectionInHeader}{true}% false to turn off 
+\setbool{subsectionInHeader}{true}% false to turn off
 {\addtolength{\beforechapskip}{-3\baselineskip}
 {\addtolength{\afterchapskip}{-3\baselineskip}
 
 
-% to help with avoiding overfull 
+% to help with avoiding overfull
 % hbox with narrow columns.
 % Note that the max is 10000 for h or vbadness.
 % If you set to 10000 completely ignores.
@@ -1082,7 +1083,7 @@ Script=Arabic%
             \ltSidsAppendersRight{#1}{#2}{#3}{#4}{#5}{#6}{#7}{#8}%
             }%
     }[]%
-    }%    
+    }%
     \ltFormatThree{\theLeft}{\theCenter}{\theRight}%
 }
 
@@ -1238,7 +1239,7 @@ Script=Arabic%
         \ltSidsFormat{\ltTextRed}{\ltTextBlack}{\ltTextBlack}{\ltTextBlack}%
         \ifdef{\actorOnSeparateLine}{%
         \ltActor{\ltSid{#1}{#2}}%
-        
+
         \ltDialogNoFormat{#3}{#4}{#5}{#6}{#7}{#8}%
     }{%
         \ltSids{#1}{#2.colon}{#3}{#4}{#5}{#6}{#7}{#8}%
@@ -1248,7 +1249,7 @@ Script=Arabic%
 \DeclareDocumentCommand\ltActorDialogLowVoice{ m m m m g g }{%
     \ifdef{\actorOnSeparateLine}{%
         \ltActor{\ltSid{#1}{#2}}%
-        
+
         \ltSidsFormat{\ltTextRed}{\ltTextBlack}{\ltTextBlack}%
         \ltDialogNoFormat{actors}{InALowVoice}{#3}{#4}{#5}{#6}%
     }{%
@@ -1272,7 +1273,7 @@ Script=Arabic%
 \DeclareDocumentCommand\ltActorDialogAloud{ m m m m g g }{%
     \ifdef{\actorOnSeparateLine}{%
         \ltActor{\ltSid{#1}{#2}}%
-        
+
         \ltSidsFormat{\ltTextRed}{\ltTextBlack}%
         \ltDialogNoFormat{actors}{Aloud}{#3}{#4}{#5}{#6}%
     }{%
@@ -1284,7 +1285,7 @@ Script=Arabic%
 \DeclareDocumentCommand\ltActorDialogLowVoiceRubric{ m m m m m m }{%
     \ifdef{\actorOnSeparateLine}{%
         \ltActor{\ltSid{#1}{#2}}%
-        
+
         \ltSidsFormat{\ltTextRed}{\ltTextBlack}{\ltTextRed}%
         \ltDialogNoFormat{actors}{InALowVoice}{#3}{#4}{#5}{#6}%
     }{%
@@ -1298,7 +1299,7 @@ Script=Arabic%
     \ifdef{\actorOnSeparateLine}{%
         \ltSidsFormat{\ltTextRed}{\ltTextRed}%
         \ltSids{#1}{#2}{#3}{#4}%
-        
+
         \ltDialogNoFormat{#5}{#6}%
     }{%
         \ltSidsFormat{\ltTextRed}{\ltTextRed}{\ltTextBlack}%
@@ -1333,7 +1334,7 @@ Script=Arabic%
 \newcommand{\ltActorDialogRubric}[6]{%
     \ifdef{\actorOnSeparateLine}{%
         \ltActor{\ltSid{#1}{#2}}%
-        
+
         \ltSidsFormat{\ltTextBlack}{\ltTextRed}%
         \ltDialogNoFormat{#3}{#4}{#5}{#6}%
     }{%
@@ -1345,7 +1346,7 @@ Script=Arabic%
     \ifdef{\actorOnSeparateLine}{%
         \ltSidsFormat{\ltTextRed}{\ltTextRed}%
         \ltSids{#1}{#2}{#3}{#4}%
-        
+
         \ltSidsFormat{\ltTextBlack}{\ltTextRed}%
         \ltDialogNoFormat{#5}{#6}{#7}{#8}%
     }{%
@@ -1358,7 +1359,7 @@ Script=Arabic%
     \ifdef{\actorOnSeparateLine}{%
         \ltSidsFormat{\ltTextRed}{\ltTextBlack}%
         \ltSids{#1}{#2}{#3}{#4}%
-        
+
         \ltSidsFormat{\ltTextRed}{\ltTextBlack}%
         \ltDialogNoFormat{#5}{#6}{#7}{#8}%
     }{%
@@ -1371,7 +1372,7 @@ Script=Arabic%
     \ltSidsFormat{\ltTextRed}{\ltTextBlack}
     \ifdef{\actorOnSeparateLine}{%
         \ltActor{\ltSid{#1}{#2}}%
-        
+
         \ltHymnNoFormat{#3}{#4}%
     }{%
         \ltHymnNoFormat{#1}{#2.colon}{#3}{#4}%
@@ -1382,7 +1383,7 @@ Script=Arabic%
     \ltSidsFormat{\ltTextRed}{\ltTextBlack}
     \ifdef{\actorOnSeparateLine}{%
         \ltActor{\ltSid{#1}{#2}}%
-        
+
         \ltReading{#3}{#4}%
     }{%
         \ltReading{#1}{#2.colon}{#3}{#4}%
@@ -1394,7 +1395,7 @@ Script=Arabic%
     \ifdef{\actorOnSeparateLine}{%
         \ltSidsFormat{\ltTextRed}{\ltTextRed}%
         \ltSids{#1}{#2}{#3}{#4}%
-        
+
         \ltDialogNoFormat{#5}{#6}%
     }{%
         \ltSidsFormat{\ltTextRed}{\ltTextRed}{\ltTextBlack}
@@ -1404,7 +1405,7 @@ Script=Arabic%
 \newcommand{\ltActorHymnRubric}[6]{%
     \ifdef{\actorOnSeparateLine}{%
         \ltActor{\ltSid{#1}{#2}}%
-        
+
         \ltSidsFormat{\ltTextBlack}{\ltTextRed}%
         \ltHymnNoFormat{#3}{#4}{#5}{#6}%
     }{%
@@ -1417,7 +1418,7 @@ Script=Arabic%
     \ifdef{\actorOnSeparateLine}{%
         \ltSidsFormat{\ltTextRed}{\ltTextRed}%
         \ltSids{#1}{#2}{#3}{#4}%
-        
+
         \ltSidsFormat{\ltTextBlack}{\ltTextRed}%
         \ltHymnNoFormat{#5}{#6}{#7}{#8}%
     }{%
@@ -1430,7 +1431,7 @@ Script=Arabic%
     \ifdef{\actorOnSeparateLine}{%
         \ltSidsFormat{\ltTextRed}{\ltTextRed}%
         \ltSids{#1}{#2}{#3}{#4}%
-        
+
         \ltSidsFormat{\ltTextBlack}{\ltTextBlack}{\ltTextRed}%
         \ltHymnNoFormat{#5}{#6}{#7}{#8}%
     }{%
@@ -1533,7 +1534,7 @@ Script=Arabic%
 % and outputs them as columns
 \newcommand\ltFormatThree[3]{%
     {\IfStrEqCase{\pgfkeysvalueof{\my/current/cols}}{%
-    {1}{%  output one column    
+    {1}{%  output one column
 			\ltTypeography{}%
 			#1
             \ltTempTypeographyDefault%
@@ -1546,12 +1547,12 @@ Script=Arabic%
 			\ltTypeography{}%
 			#1
             \ltTempTypeographyDefault%
-            \end{leftcolumn}%          
+            \end{leftcolumn}%
         	\begin{rightcolumn}%
 			\ltTypeography{}%
 			#3
             \ltTempTypeographyDefault%
-            \end{rightcolumn}%          
+            \end{rightcolumn}%
         \end{paracol}%
     }%
     {3}{% output three columns
@@ -1562,17 +1563,17 @@ Script=Arabic%
 			\ltTypeography{}%
 			#1
             \ltTempTypeographyDefault%
-            \end{nthcolumn}%          
+            \end{nthcolumn}%
         	\begin{nthcolumn}{1}%
 			\ltTypeography{}%
 			#2
             \ltTempTypeographyDefault%
-            \end{nthcolumn}%          
+            \end{nthcolumn}%
         	\begin{nthcolumn}{2}%
 			\ltTypeography{}%
 			#3
             \ltTempTypeographyDefault%
-            \end{nthcolumn}%          
+            \end{nthcolumn}%
         \end{paracol}%
     }%
 }[]%
@@ -1595,4 +1596,3 @@ Script=Arabic%
 }
 
 \endinput
-
