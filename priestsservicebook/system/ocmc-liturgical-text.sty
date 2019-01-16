@@ -1250,6 +1250,9 @@ Script=Arabic%
 \color{red}#1: \color{black}#2 \IfNoValueF{#3}{#3} \IfNoValueF{#4}{#4}%
 }
 
+\DeclareDocumentCommand\lfActorDialogLowVoice{m m g g}{%
+\color{red}#1: \color{red}\ltDialog{actors}{InALowVoice} \color{black}#2 \IfNoValueF{#3}{#3} \IfNoValueF{#4}{#4}%
+}
 \DeclareDocumentCommand\ltActorDialogLowVoice{ m m m m g g }{%
     \ifdef{\actorOnSeparateLine}{%
         \ltActor{\ltSid{#1}{#2}}%
@@ -1260,6 +1263,9 @@ Script=Arabic%
         \ltSidsFormat{\ltTextRed}{\ltTextRed}{\ltTextBlack}{\ltTextBlack}%
         \ltSids{#1}{#2}{actors}{InALowVoice.colon}{#3}{#4}{#5}{#6}%
     }%
+}
+\DeclareDocumentCommand\lfRubric{m g g g}{%
+\color{red}#1 \IfNoValueF{#2}{#2} \IfNoValueF{#3}{#3} \IfNoValueF{#4}{#4}%
 }
 \DeclareDocumentCommand\ltRubric{ m m g g g g g g}{%
     \ltSidsFormat{\ltTextRed}{\ltTextRed}{\ltTextRed}{\ltTextRed}%

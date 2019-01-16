@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.14)  16 JAN 2019 08:58
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.14)  16 JAN 2019 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1305,21 +1305,29 @@ File: system/images/icxcnika.jpg Graphic file (type bmp)
 
 ]
 (./system/copyright.tex
+Overfull \hbox (1.8223pt too wide) in paragraph at lines 15--16
+[]\TU/Arimo-Regular.ttf(0)/m/n/14.4 ALEXANDRIA AND ALL AFRICA[] \TU/Arimo-Regul
+ar.ttf(0)/m/it/9 from: /en/uk/lashclient.settings client.title[] \TU/Arimo-Regu
+lar.ttf(0)/m/n/14.4 except as noted[]
+ []
+
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 ) [1
 
-] (./bk.servicebook.toc) [2] (./system/blessing.tex) (./your.choices/ke.oak/pre
-face.tex) [3] [4
+] (./bk.servicebook.toc) [2] (./system/blessing.tex)
+(./your.choices/ke.oak/preface.tex) [3] [4
 
-] (./templates/tmp.typikon.tex
-(./resources/en_uk_lash/res.typika.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
+] (./templates/tmp.typika.tex
+(./resources/en_uk_lash/res.typika.tex) (./resources/en_uk_lash/res.prayers.tex
+) (./resources/en_uk_lash/res.duplicates.tex)
+Overfull \hbox (6.62187pt too wide) in paragraph at lines 12--12
+[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Heavenly King, Advocate, Spirit of truth
+, present everywhere, filling all things,[]
+ []
+
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1330,15 +1338,12 @@ face.tex) [3] [4
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
+(./resources/en_uk_lash/res.ho.s03.tex) (./resources/en_uk_lash/res.ps.tex)
+(./templates/parts/tmp.sixPsalms.tex (./resources/en_uk_lash/res.duplicates.tex
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1361,374 +1366,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
+(./resources/en_uk_lash/res.duplicates.tex) (./resources/en_uk_lash/res.ps.tex)
+(./resources/en_uk_lash/res.rubrical.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+(./resources/en_uk_lash/res.duplicates.tex))
+(./resources/en_uk_lash/res.duplicates.tex)
+(./resources/en_uk_lash/res.matinsweekday.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
+(./resources/en_uk_lash/res.matinsweekday.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
+(./resources/en_uk_lash/res.matinsweekday.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [10]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11]
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12]
-Overfull \hbox (1.44876pt too wide) in paragraph at lines 243--243
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 By the mercy and compassion and love for
- humankind of your only-begotten[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13]
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16]
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 3271) has occurred while \output is active []
-
- [17]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Overfull \hbox (0.91113pt too wide) in paragraph at lines 411--411
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 singers reach the verse [][]For see, you h
-ave loved truth, [][]he comes out through[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [26]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [27]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [29]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [31]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [32]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [33]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [35]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [36]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [37]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [38]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [39]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [40]
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [41]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [42]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [43]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [44]
-Overfull \vbox (671.86974pt too high) has occurred while \output is active []
-
-
-[45]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [46]
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [47]
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [48]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [49]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [50]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [51]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)) [52]
+ [8])
+[9]
 \tf@toc=\write6
 \openout6 = `bk.servicebook.toc'.
 
@@ -1744,12 +1407,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 113.
 ### simple group (level 1) entered at line 1037 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33091 strings out of 492956
- 666239 string characters out of 6133501
- 1000783 words of memory out of 5000000
- 36256 multiletter control sequences out of 15000+600000
- 555842 words of font info for 55 fonts, out of 8000000 for 9000
+ 33041 strings out of 492956
+ 663993 string characters out of 6133501
+ 999907 words of memory out of 5000000
+ 36600 multiletter control sequences out of 15000+600000
+ 555898 words of font info for 62 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 51i,12n,69p,2699b,12467s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,11n,69p,2699b,10798s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on bk.servicebook.pdf (58 pages).
+Output written on bk.servicebook.pdf (15 pages).
