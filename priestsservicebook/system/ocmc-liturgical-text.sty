@@ -1246,6 +1246,10 @@ Script=Arabic%
     }%
 }
 
+\DeclareDocumentCommand\lfActorDialog{m m g g}{%
+\color{red}#1: \color{black}#2 \IfNoValueF{#3}{#3} \IfNoValueF{#4}{#4}%
+}
+
 \DeclareDocumentCommand\ltActorDialogLowVoice{ m m m m g g }{%
     \ifdef{\actorOnSeparateLine}{%
         \ltActor{\ltSid{#1}{#2}}%

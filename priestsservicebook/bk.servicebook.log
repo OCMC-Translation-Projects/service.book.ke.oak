@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.14)  2 JAN 2019 12:55
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.14)  16 JAN 2019 08:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1183,8 +1183,7 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 (./system/control.tex (./system/iso/res.iso.language.codes.tex)
 (./your.choices/ke.oak/settings.tex
 (./resources/en_uk_lash/res.liturgystjohn.tex)
-(./resources/en_uk_lash/res.baptism.tex)
-(./resources/en_uk_lash/res.eu.baptism.tex))) (./bk.servicebook.aux)
+(./resources/en_uk_lash/res.matinsforsunday.tex))) (./bk.servicebook.aux)
 \openout1 = `bk.servicebook.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -1312,226 +1311,32 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 ) [1
 
-] (./bk.servicebook.toc
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Bold.ttf]/OT
-:script=latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Bold.ttf]/OT
-:script=latn;language=DFLT;mapping=tex-text;!
-
-Overfull \hbox (1.70575pt too wide) detected at line 3509
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 100
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 3580
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 104
- []
-
-
-Overfull \hbox (0.637pt too wide) detected at line 3739
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 110
- []
-
-
-Overfull \hbox (0.637pt too wide) detected at line 3990
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 116
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 4387
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 122
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 4490
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 126
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 4493
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 126
- []
-
-[2]
-Overfull \hbox (1.70575pt too wide) detected at line 4588
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 130
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 4637
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 133
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 4924
- \TU/Arimo-Regular.ttf(0)/bx/sc/14.4 141
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 4926
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 141
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 4997
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 142
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 5182
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 147
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 5229
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 148
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 5651
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 157
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 5998
- \TU/Arimo-Regular.ttf(0)/bx/sc/14.4 163
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 6510
- \TU/Arimo-Regular.ttf(0)/bx/sc/14.4 175
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 6512
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 175
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 7203
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 187
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8248
- \TU/Arimo-Regular.ttf(0)/bx/sc/14.4 209
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8366
- \TU/Arimo-Regular.ttf(0)/bx/sc/14.4 215
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8368
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 215
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8435
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 216
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8450
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 216
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8511
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 218
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8570
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 219
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8617
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 219
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8664
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 220
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8677
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 221
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8722
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 221
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8727
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 221
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8822
- \TU/Arimo-Regular.ttf(0)/bx/sc/14.4 225
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 8824
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 225
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 9033
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 229
- []
-
-
-Overfull \hbox (1.70575pt too wide) detected at line 9238
- \TU/Arimo-Regular.ttf(0)/m/sc/14.4 233
- []
-
-) [3] (./system/blessing.tex) (./your.choices/ke.oak/preface.tex) [4]
-(./templates/tmp.baptism.tex [1
+] (./bk.servicebook.toc) [2] (./system/blessing.tex) (./your.choices/ke.oak/pre
+face.tex) [3] [4
 
-] (./resources/en_uk_lash/res.duplicates.tex)
+] (./templates/tmp.typikon.tex
+(./resources/en_uk_lash/res.typika.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [2]
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [3]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-[][][][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 When the Catechumen is un-[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex) [4]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 6575) in paragraph at lines 102--102
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 I believe in one God, Father[]
- []
+(./resources/en_uk_lash/res.duplicates.tex) [1
 
-[5] (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
+]
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [6]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [8]
-(./resources/en_uk_lash/res.duplicates.tex) [9]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1539,103 +1344,90 @@ Underfull \hbox (badness 6575) in paragraph at lines 102--102
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 234--234
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 The Priest says the following[]
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Blessed is God, who enlight-[]
- []
-
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \hbox (badness 5374) in paragraph at lines 278--278
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 merses them and raises them[]
- []
-
-[11] (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 298--298
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Blessed are you, Lord God[]
- []
-
-
-Underfull \hbox (badness 6927) in paragraph at lines 298--298
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Almighty, the source of bless-[]
- []
-
-[12] (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
+ [3]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [13]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7851) in paragraph at lines 388--388
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Deacon: [][]Have mercy on us,[]
- []
-
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [14]
-Underfull \hbox (badness 10000) in paragraph at lines 418--418
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Master and Lord, who have[]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [4]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [15]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [16]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7851) in paragraph at lines 499--499
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Deacon: [][]Have mercy on us,[]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [6]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [17]) (./templates/tmp.wedding.tex
-(./resources/en_uk_lash/res.wedding.tex) [18]
-(./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [19]
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 The Priest says the following[]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Overfull \hbox (1.44876pt too wide) in paragraph at lines 243--243
+[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 By the mercy and compassion and love for
+ humankind of your only-begotten[]
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [13]
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [20]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1644,17 +1436,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--63
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [21]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 3271) has occurred while \output is active []
+
+ [17]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1662,8 +1462,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--63
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [22]
+(./resources/en_uk_lash/res.actors.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1673,72 +1476,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--63
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 The Priest says the following[]
+Overfull \hbox (0.91113pt too wide) in paragraph at lines 411--411
+[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 singers reach the verse [][]For see, you h
+ave loved truth, [][]he comes out through[]
  []
 
 
-Underfull \hbox (badness 5431) in paragraph at lines 203--203
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 God most pure, Author of all[]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[23] (./resources/en_uk_lash/res.duplicates.tex)
+ [19]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 The Priest says the following[]
- []
-
-[24]
-Underfull \hbox (badness 5022) in paragraph at lines 260--260
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Preserve them, Lord our God,[]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[25]
-Underfull \hbox (badness 5908) in paragraph at lines 276--276
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Exalt them like the cedars of[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
+ [20]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [26]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [27]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7851) in paragraph at lines 360--360
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Deacon: [][]Have mercy on us,[]
- []
-
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [28]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1746,7 +1540,6 @@ Underfull \hbox (badness 7851) in paragraph at lines 360--360
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [29]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1756,13 +1549,9 @@ Underfull \hbox (badness 7851) in paragraph at lines 360--360
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 456--456
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Bridegroom, be magnified like[]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[30] (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
+ [25]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1772,14 +1561,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 456--456
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [31]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [32]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1787,9 +1576,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 456--456
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [33]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1801,10 +1592,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 456--456
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 577--577
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 The Priest says the following[]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [28]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1812,11 +1602,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 577--577
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [34]
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1825,7 +1614,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 577--577
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [35]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1834,10 +1622,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 577--577
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-Overfull \vbox (17.49998pt too high) has occurred while \output is active []
+(./resources/en_uk_lash/res.actors.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-[36] (./resources/en_uk_lash/res.duplicates.tex)
+ [30]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
@@ -1846,1797 +1634,109 @@ Overfull \vbox (17.49998pt too high) has occurred while \output is active []
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 696--696
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 The Priest says the following[]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [37]
-(./resources/en_uk_lash/res.duplicates.tex))
-(./resources/en_uk_lash/res.duplicates.tex) (./templates/tmp.holyunction.tex
-(./resources/en_uk_lash/res.holyunction.tex)
-Overfull \vbox (17.49998pt too high) has occurred while \output is active []
-
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[38] (./resources/en_uk_lash/res.duplicates.tex)
+ [34]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [39]
 (./resources/en_uk_lash/res.duplicates.tex)
 (./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [40]
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7256) in paragraph at lines 83--83
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Wash me thoroughly from my[]
- []
-
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \hbox (badness 5403) in paragraph at lines 85--85
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 And after the 50th Psalm the[]
- []
-
-[41] (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 6575) in paragraph at lines 105--105
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 the ocean of peace, by your[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex) [42]
+ [37]
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 6396) in paragraph at lines 139--139
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 All-holy, ever-Virgin, Mother of[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Having ineffably hallowed our[]
- []
-
 (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7099) in paragraph at lines 151--151
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Sovereign Lady, pure and all-[]
- []
-
+(./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--157
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 May no influence of wicked[]
- []
+ [38]
+(./resources/en_uk_lash/res.duplicates.tex)
+(./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [39]
+(./resources/en_uk_lash/res.duplicates.tex)
+(./resources/en_uk_lash/res.duplicates.tex)
+(./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \hbox (badness 6944) in paragraph at lines 157--157
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 signed by divine anointing, O[]
- []
+ [40]
+(./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[43] (./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 6995) in paragraph at lines 175--175
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 suming the passions of souls,[]
- []
+ [41]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(./resources/en_uk_lash/res.duplicates.tex) [44]
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 6741) in paragraph at lines 191--191
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Nature received as a glorious[]
- []
+ [42]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \hbox (badness 6284) in paragraph at lines 197--197
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 All-loving Saviour, rejoicing we[]
- []
+ [44]
+Overfull \vbox (671.86974pt too high) has occurred while \output is active []
 
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7221) in paragraph at lines 205--205
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 who gave birth to God, ever[]
- []
 
 [45]
-Underfull \hbox (badness 10000) in paragraph at lines 214--214
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 O Incomprehensible, as you[]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [46]
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [46]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [47]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [48]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 6625) in paragraph at lines 329--329
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 workers, visit our weaknesses;[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 333--333
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Who will recount your mighty[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex) [49] [50]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 5008) in paragraph at lines 392--392
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 out end, Holy of Holies, who[]
- []
-
-[51] (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [52]
-(./resources/en_uk_lash/res.duplicates.tex) [53]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [54]
-(./resources/en_uk_lash/res.duplicates.tex) [55]
-Underfull \hbox (badness 6236) in paragraph at lines 545--545
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 kingdom of heaven has come[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [56]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [57]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [58]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [59] [60]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [61]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [62]
-(./resources/en_uk_lash/res.duplicates.tex) [63]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [64]
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 907--907
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Then those who make the[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 907--907
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Efchelaion come among the[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [65]
-Underfull \hbox (badness 10000) in paragraph at lines 915--915
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 And those who make the[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [66]
-Underfull \hbox (badness 10000) in paragraph at lines 936--936
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Those who have made the[]
- []
-
-) (./templates/tmp.trisagion.tex (./resources/en_uk_lash/res.trisagion.tex)
-[67] [68]
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Bold.ttf]/OT
-:script=latn;language=DFLT;mapping=tex-text;!
- (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [69]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7851) in paragraph at lines 66--66
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Deacon: [][]Have mercy on us,[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [70]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7362) in paragraph at lines 105--106
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Of the holy, glorious and all-[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7362) in paragraph at lines 112--112
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Of the holy, glorious and all-[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Nuns, Parents, Grandparents,[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex))
-(./templates/tmp.vespersforsunday.tex
-(./resources/en_uk_lash/res.vespersforsunday.tex)
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Regular.ttf]
-/OT:script=latn;language=DFLT;mapping=tex-text;!
- [71] [72]
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Bold.ttf]/OT
-:script=latn;language=DFLT;mapping=tex-text;!
-
-Underfull \hbox (badness 5607) in paragraph at lines 6--6
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 stall, venerated the icons and[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [73] [74]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Regular.ttf]
-/OT:script=latn;language=DFLT;mapping=tex-text;!
- [75]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 5022) in paragraph at lines 83--83
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Kingdom through the blessings[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex) [76]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Regular.ttf]
-/OT:script=latn;language=DFLT;mapping=tex-text;!
- [77]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 139--139
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Sunday matins: Kathisma[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--143
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Monday matins: Kathisma[]
- []
-
-
-Underfull \hbox (badness 6910) in paragraph at lines 145--145
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Monday vespers: Kathisma 6[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Tuesday matins: Kathisma[]
- []
-
-
-Underfull \hbox (badness 5175) in paragraph at lines 149--149
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Tuesday vespers: Kathisma 9[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Wednesday matins: Kathisma[]
- []
-
-[78]
-Underfull \hbox (badness 10000) in paragraph at lines 155--155
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Thursday matins: Kathisma[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 155--155
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 13(psalms 92-101), 14(psalms[]
- []
-
-
-Overfull \hbox (2.99547pt too wide) in paragraph at lines 159--159
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Friday matins: Kathisma 19(psalms[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--161
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Friday vespers: Kathisma 18[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--163
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Saturday matins: Kathisma[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--163
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 16(psalms 110-118), 17(psalm[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Regular.ttf]
-/OT:script=latn;language=DFLT;mapping=tex-text;!
- [79]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [80]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Overfull \hbox (10.513pt too wide) in paragraph at lines 275--275
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 During the Doxastikon or Theotokion,[]
- []
-
-
-Underfull \hbox (badness 5133) in paragraph at lines 275--275
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 blesses the incense as above.[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Regular.ttf]
-/OT:script=latn;language=DFLT;mapping=tex-text;!
- [81]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 301--301
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 And they enter the sanctuary[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 315--315
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Deacon (facing the People):[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [82]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Regular.ttf]
-/OT:script=latn;language=DFLT;mapping=tex-text;!
- [83]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7379) in paragraph at lines 411--411
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Grant, Lord, to keep us this[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [84]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 453--453
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Priest (blessing the People):[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Regular.ttf]
-/OT:script=latn;language=DFLT;mapping=tex-text;!
- [85]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [86]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Regular.ttf]
-/OT:script=latn;language=DFLT;mapping=tex-text;!
- [87]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [88]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Regular.ttf]
-/OT:script=latn;language=DFLT;mapping=tex-text;!
- [89] [90]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Regular.ttf]
-/OT:script=latn;language=DFLT;mapping=tex-text;!
- [91]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [92]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex))
-(./templates/tmp.matinsforsunday.tex
-(./resources/en_uk_lash/res.matinsforsunday.tex)
-Missing character: There is no ﻿ in font [system/fonts/Arimo/Arimo-Regular.ttf]
-/OT:script=latn;language=DFLT;mapping=tex-text;!
- [93] [94] [95]
-Underfull \hbox (badness 7064) in paragraph at lines 16--16
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 come out to read the Matins[]
- []
-
-[96] (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [97]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [98]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [99]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [100]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [101]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [102]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [103]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [104]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [105]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [106] [107]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [108]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [109]
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 5077) in paragraph at lines 313--313
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 After this the recitation of the[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 327--327
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 On normal Sundays the third[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 327--327
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 17]. On major Feasts the[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex) [110]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 379--379
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 When the Anavathmi and the[]
- []
-
-[111] (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [112]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [113]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 445--445
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Singers: [][]Lord, have mercy.[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [114]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [115]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [116]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 6284) in paragraph at lines 585--585
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 For 8 Verses (Sundays) or 6[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [117]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Overfull \hbox (8.13646pt too wide) in paragraph at lines 615--615
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 On Sunday the following Theotokion:[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 617--617
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 You are most blessed, Virgin[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [118]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [119]
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7851) in paragraph at lines 680--680
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Deacon: [][]Have mercy on us,[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [120]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [121]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [122] [123]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [124]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [125]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [126]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [127]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [128]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [129]
-(./resources/en_uk_lash/res.duplicates.tex) [130] [131] [132] [133] [134]
-[135] (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1160--1160
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 The following Psalm of the[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1176--1176
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Remember, Lord, against the[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1178--1178
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 O daughter of Babylon, the[]
- []
-
-[136]
-Underfull \hbox (badness 10000) in paragraph at lines 1193--1193
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Hail, all-praised Queen of all,[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1221--1221
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Hail, blessed are you among[]
- []
-
-[137]
-Underfull \hbox (badness 10000) in paragraph at lines 1236--1236
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Therefore God your God has[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex) [138]
-(./resources/en_uk_lash/res.duplicates.tex)) (./templates/tmp.matinsweekday.tex
-(./resources/en_uk_lash/res.matinsweekday.tex) [139] [140]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [141]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [142]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [143]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [144]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [145]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [146]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [147]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [148]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [149]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [150]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [151]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [152]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 6893) in paragraph at lines 617--617
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 3. Bless the Lord Apostles,[]
- []
-
-[153] (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [154]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 5985) in paragraph at lines 690--690
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 who gave birth to God, ever-[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [155]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [156]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [157]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [158]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex) [159]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [160]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [161]
-(./resources/en_uk_lash/res.duplicates.tex))
-(./resources/en_uk_lash/res.duplicates.tex) (./templates/tmp.proskomide.tex
-(./resources/en_uk_lash/res.pub.priest.servicebook.tex) [162]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [163]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 42--42
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Deacon: [][]Lord, have mercy.[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 The just is remembered with[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [164]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Stretch out your hand, Lord,[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 standing uncondemned before[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 5175) in paragraph at lines 70--70
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 They make three bows before[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 6477) in paragraph at lines 72--72
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 his sticharion, faces east and[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [165]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [166]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 136--136
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Then the Priest, raising the[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [167]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [168]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 228--228
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 the Victorious, Demetrios My-[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [169]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-File: system/images/PriestDiagramEnglish.jpg Graphic file (type bmp)
-<system/images/PriestDiagramEnglish.jpg>
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 252--252
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Remember, Master, Lover of[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 254--254
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Then he commemorates the[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [170]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 5490) in paragraph at lines 309--309
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 and censes the Offering three[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex) [171]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [172]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.rubrical.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [173]
-(./resources/en_uk_lash/res.duplicates.tex)) (./templates/tmp.liturgystjohn.tex
-[174] [175] [176] [177]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 108.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 108.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 108.
- [178] [179]
-Underfull \hbox (badness 7203) in paragraph at lines 193--193
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 trance, says, in a low voice:[]
- []
-
-[180]
-Underfull \hbox (badness 5578) in paragraph at lines 199--199
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 The People sing the Entrance[]
- []
-
-[181] [182] [183] [184]
-Underfull \hbox (badness 7851) in paragraph at lines 334--334
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Deacon: [][]Have mercy on us,[]
- []
-
-[185] [186]
-Underfull \hbox (badness 5105) in paragraph at lines 414--414
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 *Deacon: [][]Again and again in[]
- []
-
-[187] [188] [189] [190] [191] [192] [193] [194]
-Underfull \hbox (badness 7759) in paragraph at lines 620--620
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 and elevates the Chalice and[]
- []
-
-[195] [196]
-Underfull \hbox (badness 5133) in paragraph at lines 660--660
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 (in a low voice) [][]For the holy[]
- []
-
-
-Underfull \hbox (badness 7203) in paragraph at lines 660--660
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 praised Apostles, for Saint []N[],[]
- []
-
-[197] [198] [199]
-Underfull \hbox (badness 10000) in paragraph at lines 740--740
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 compassion and love towards[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 740--740
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 mankind of your only-begotten[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 760--760
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Praise the Lord from heaven,[]
- []
-
-[200] [201]
-Underfull \hbox (badness 5217) in paragraph at lines 802--802
-[][][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 This has touched my lips: it[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 805--806
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 The Deacon, having carefully[]
- []
-
-[202] [203]
-Underfull \hbox (badness 10000) in paragraph at lines 860--860
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 pure, immortal, heavenly, life-[]
- []
-
-
-Underfull \hbox (badness 6252) in paragraph at lines 860--860
-[]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 giving and dread Mysteries of[]
- []
-
-[204] [205] [206]
-Underfull \hbox (badness 5175) in paragraph at lines 924--924
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 The Priest distributes the Anti-[]
- []
-
-) [207] (./templates/tmp.churchdedicationatvespers.tex
-(./resources/en_uk_lash/res.churchdedicationatvespers.tex) [208]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [209] [210]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [211]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [212]
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)) (./templates/tmp.childbirth.tex
-(./resources/en_uk_lash/res.childbirth.tex) [213] [214]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [215]
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [216]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 5460) in paragraph at lines 87--87
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 By the intercessions, Lord, of[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Rejoice full of grace, Virgin[]
- []
-
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [217]
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7308) in paragraph at lines 123--123
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Lord, have mercy, Lord have[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [218]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [219]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7362) in paragraph at lines 221--221
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Of the holy, glorious and all-[]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(./resources/en_uk_lash/res.duplicates.tex) [220]
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex) (./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [221]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
+ [47]
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [222]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.actors.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex))
-(./templates/tmp.blessingbuildingorbusiness.tex
-(./resources/en_uk_lash/res.blessingbuildingorbusiness.tex) [223] [224]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [225]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 69--69
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 For the peace of the whole[]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [226]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [227]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [228]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [229]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 For the peace of the whole[]
- []
+ [48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [230]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [231]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [232]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [233]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [234]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 331--331
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 For the peace of the whole[]
- []
+ [49]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [235]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \hbox (badness 7558) in paragraph at lines 368--368
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Then the priest immerses the[]
- []
+ [50]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [236]
-(./resources/en_uk_lash/res.duplicates.tex)
+ [51]
 (./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex))
-(./resources/en_uk_lash/res.duplicates.tex) [237]
+(./resources/en_uk_lash/res.duplicates.tex)) [52]
 \tf@toc=\write6
 \openout6 = `bk.servicebook.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
  (./bk.servicebook.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 75.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 75.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 113.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 113.
  )
 (\end occurred inside a group at level 2)
 
@@ -3644,12 +1744,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 75.
 ### simple group (level 1) entered at line 1037 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 37664 strings out of 492956
- 841702 string characters out of 6133501
- 1255722 words of memory out of 5000000
- 38143 multiletter control sequences out of 15000+600000
- 566675 words of font info for 68 fonts, out of 8000000 for 9000
+ 33091 strings out of 492956
+ 666239 string characters out of 6133501
+ 1000783 words of memory out of 5000000
+ 36256 multiletter control sequences out of 15000+600000
+ 555842 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 51i,12n,69p,2943b,28921s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,12n,69p,2699b,12467s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on bk.servicebook.pdf (243 pages).
+Output written on bk.servicebook.pdf (58 pages).
