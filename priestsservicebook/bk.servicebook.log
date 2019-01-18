@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.14)  16 JAN 2019 13:50
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.14)  18 JAN 2019 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1390,8 +1390,41 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./resources/en_uk_lash/res.matinsweekday.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8])
-[9]
+ [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+(./resources/en_uk_lash/res.he.h.m4.tex)
+(./resources/en_uk_lash/res.he.h.m4.tex)
+(./resources/en_uk_lash/res.he.h.m4.tex)
+(./resources/en_uk_lash/res.he.h.m4.tex)
+(./resources/en_uk_lash/res.he.h.m4.tex)
+(./resources/en_uk_lash/res.he.h.m4.tex)
+(./resources/en_uk_lash/res.he.h.m4.tex) (./resources/en_uk_lash/res.ps.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+(./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+(./resources/en_uk_lash/res.he.h.m4.tex)
+(./resources/en_uk_lash/res.duplicates.tex)
+(./resources/en_uk_lash/res.duplicates.tex)
+(./resources/en_uk_lash/res.ho.s03.tex) (./templates/parts/tmp.megalynarion.tex
+(./resources/en_uk_lash/res.titles.tex) (./resources/en_uk_lash/res.misc.tex)
+(./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+(./resources/en_uk_lash/res.duplicates.tex)
+(./resources/en_uk_lash/res.duplicates.tex)
+(./resources/en_uk_lash/res.duplicates.tex)
+(./resources/en_uk_lash/res.duplicates.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13])
+(./resources/en_uk_lash/res.duplicates.tex)) [14]
 \tf@toc=\write6
 \openout6 = `bk.servicebook.toc'.
 
@@ -1407,12 +1440,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 113.
 ### simple group (level 1) entered at line 1037 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33041 strings out of 492956
- 663993 string characters out of 6133501
- 999907 words of memory out of 5000000
- 36600 multiletter control sequences out of 15000+600000
- 555898 words of font info for 62 fonts, out of 8000000 for 9000
+ 33130 strings out of 492956
+ 667492 string characters out of 6133501
+ 1000642 words of memory out of 5000000
+ 36639 multiletter control sequences out of 15000+600000
+ 555906 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 51i,11n,69p,2699b,10798s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,11n,69p,2699b,11017s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on bk.servicebook.pdf (15 pages).
+Output written on bk.servicebook.pdf (20 pages).

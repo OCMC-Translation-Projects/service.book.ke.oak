@@ -1234,6 +1234,16 @@ Script=Arabic%
         \IfNoValueF {#4} {\global\def\sidFourFormat{#4}}%
     }%
 }
+\DeclareDocumentCommand\ltActorRubric{m m m m g g g g}{%
+        \ltSidsFormat{\ltTextRed}{\ltTextRed}{\ltTextRed}{\ltTextRe}%
+        \ifdef{\actorOnSeparateLine}{%
+        \ltActor{\ltSid{#1}{#2}}%
+
+        \ltDialogNoFormat{#3}{#4}{#5}{#6}{#7}{#8}%
+    }{%
+        \ltSids{#1}{#2.colon}{#3}{#4}{#5}{#6}{#7}{#8}%
+    }%
+}
 
 \DeclareDocumentCommand\ltActorDialog{m m m m g g g g}{%
         \ltSidsFormat{\ltTextRed}{\ltTextBlack}{\ltTextBlack}{\ltTextBlack}%
