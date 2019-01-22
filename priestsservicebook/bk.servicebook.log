@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.14)  18 JAN 2019 14:45
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.14)  22 JAN 2019 09:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1320,119 +1320,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 ] (./bk.servicebook.toc) [2] (./system/blessing.tex)
 (./your.choices/ke.oak/preface.tex) [3] [4
 
-] (./templates/tmp.typika.tex
-(./resources/en_uk_lash/res.typika.tex) (./resources/en_uk_lash/res.prayers.tex
-) (./resources/en_uk_lash/res.duplicates.tex)
-Overfull \hbox (6.62187pt too wide) in paragraph at lines 12--12
-[][]\TU/Arimo-Regular.ttf(0)/m/sc/14.4 Heavenly King, Advocate, Spirit of truth
-, present everywhere, filling all things,[]
- []
-
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex) [1
+] (./templates/parts/tmp.kontakia.tex (./resources/en_uk_lash/res.duplicates.te
+x)
+(./resources/en_uk_lash/res.misc.tex)) [1
 
 ]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.ho.s03.tex) (./resources/en_uk_lash/res.ps.tex)
-(./templates/parts/tmp.sixPsalms.tex (./resources/en_uk_lash/res.duplicates.tex
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6]
-(./resources/en_uk_lash/res.duplicates.tex) (./resources/en_uk_lash/res.ps.tex)
-(./resources/en_uk_lash/res.rubrical.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex))
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.matinsweekday.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-(./resources/en_uk_lash/res.matinsweekday.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.matinsweekday.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-(./resources/en_uk_lash/res.he.h.m4.tex)
-(./resources/en_uk_lash/res.he.h.m4.tex)
-(./resources/en_uk_lash/res.he.h.m4.tex)
-(./resources/en_uk_lash/res.he.h.m4.tex)
-(./resources/en_uk_lash/res.he.h.m4.tex)
-(./resources/en_uk_lash/res.he.h.m4.tex)
-(./resources/en_uk_lash/res.he.h.m4.tex) (./resources/en_uk_lash/res.ps.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [10]
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11]
-(./resources/en_uk_lash/res.he.h.m4.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.ho.s03.tex) (./templates/parts/tmp.megalynarion.tex
-(./resources/en_uk_lash/res.titles.tex) (./resources/en_uk_lash/res.misc.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12]
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-(./resources/en_uk_lash/res.duplicates.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13])
-(./resources/en_uk_lash/res.duplicates.tex)) [14]
 \tf@toc=\write6
 \openout6 = `bk.servicebook.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
  (./bk.servicebook.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 113.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 117.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 117.
  )
 (\end occurred inside a group at level 2)
 
@@ -1440,12 +1340,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 113.
 ### simple group (level 1) entered at line 1037 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33130 strings out of 492956
- 667492 string characters out of 6133501
- 1000642 words of memory out of 5000000
- 36639 multiletter control sequences out of 15000+600000
- 555906 words of font info for 63 fonts, out of 8000000 for 9000
+ 32616 strings out of 492956
+ 647995 string characters out of 6133501
+ 989493 words of memory out of 5000000
+ 36269 multiletter control sequences out of 15000+600000
+ 555898 words of font info for 62 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 51i,11n,69p,2699b,11017s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,11n,69p,2699b,10749s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on bk.servicebook.pdf (20 pages).
+Output written on bk.servicebook.pdf (7 pages).
