@@ -1235,7 +1235,7 @@ Script=Arabic%
     }%
 }
 \DeclareDocumentCommand\ltActorRubric{m m m m g g g g}{%
-        \ltSidsFormat{\ltTextRed}{\ltTextRed}{\ltTextRed}{\ltTextRe}%
+        \ltSidsFormat{\ltTextRed}{\ltTextRed}{\ltTextRed}{\ltTextRed}%
         \ifdef{\actorOnSeparateLine}{%
         \ltActor{\ltSid{#1}{#2}}%
 
@@ -1246,8 +1246,8 @@ Script=Arabic%
 }
 
 \DeclareDocumentCommand\ltActorDialog{m m m m g g g g}{%
-        \ltSidsFormat{\ltTextRed}{\ltTextBlack}{\ltTextBlack}{\ltTextBlack}%
-        \ifdef{\actorOnSeparateLine}{%
+    \ltSidsFormat{\ltTextRed}{\ltTextBlack}{\ltTextBlack}{\ltTextBlack}%
+    \ifdef{\actorOnSeparateLine}{%
         \ltActor{\ltSid{#1}{#2}}%
 
         \ltDialogNoFormat{#3}{#4}{#5}{#6}{#7}{#8}%
